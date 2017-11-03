@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "chrome-render": "^1.4.1",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "redis": "^2.8.0"
+  }
+}
